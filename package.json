@@ -1,0 +1,26 @@
+{
+  "name": "rf433pi",
+  "version": "1.0.0",
+  "description": "Gladys hooks to control RF433 devices from RPI (without arduino)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyreo/rf433pi.git"
+  },
+  "keywords": [
+    "RF433",
+    "Gladys"
+  ],
+  "author": "Quentin Millet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyreo/rf433pi/issues"
+  },
+  "homepage": "https://github.com/Lyreo/rf433pi#readme"
+}
